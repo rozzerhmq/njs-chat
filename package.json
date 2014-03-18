@@ -4,13 +4,14 @@
    "version": "0.0.1",
    "repository": {
       "type": "git",
-      "url": "https://github.com/rozzerhmq/njs-char.git"
+      "url": "https://github.com/rozzerhmq/njs-chat.git"
    },
    "engines": {
       "node": "0.10.x",
       "npm": "1.3.x"
    },
    "dependencies": {
-      "express": "~3.4.8"
+      "express": "~3.4.8",
+      "socket.io": "~0.9.16"
    }
 }
