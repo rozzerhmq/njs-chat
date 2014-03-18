@@ -1,0 +1,16 @@
+{
+   "name": "nodejs-chat",
+   "description": "a test app using nodejs",
+   "version": "0.0.1",
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/rozzerhmq/njs-char.git"
+   },
+   "engines": {
+      "node": "0.10.x",
+      "npm": "1.3.x"
+   },
+   "dependencies": {
+      "express": "~3.4.8"
+   }
+}
